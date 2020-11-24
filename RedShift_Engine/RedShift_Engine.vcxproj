@@ -21,6 +21,9 @@
   <ItemGroup>
     <ClCompile Include="com\engine\Apphost\Apphost.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="com\Lib\Definitions\VectorDefs.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>

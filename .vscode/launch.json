@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+    
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "RedShift_Engine",
+            "request": "attach",
+            "projectID": "5a510021-a532-4e96-91bf-b70021a4d4d3"
+        }
+    ]
+}
